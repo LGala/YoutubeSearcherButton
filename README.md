@@ -1,2 +1,5 @@
-# YoutubeSearcherButton
-Chrome Youtube searchBox extension
+for install this extension:
+  1) go to [your chrome extensions panel](chrome://extensions/)
+  2) enable "developer mode"
+  3) drag and drop this entire directory
+  
