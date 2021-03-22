@@ -1,0 +1,24 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 2,
+  "name": "youtube searchBar",
+  "version": "1.01",
+
+  "icons": { 
+  "16": "images/YTlogo16.png",
+  "32": "images/YTlogo32.png",
+  "48": "images/YTlogo64.png",
+  "128": "images/YTlogo128.png" 
+  },
+
+  "browser_action": {
+    "default_title": "youtube searchBar",
+    "default_popup": "popup.html"
+  },
+
+"content_scripts": [{
+  "matches": ["http://*.co.il/*"],
+  "js": ["jquery.min.js"]
+}]
+}

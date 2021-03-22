@@ -1,0 +1,51 @@
+body{
+	margin:0px !important;
+}
+
+#container{
+	width: 350px;
+	height: 50px;
+	border-radius: 3px;
+	margin: 0px;
+}
+
+#titoloH1{
+	font-size: 16px;
+	font-weight: bold;
+	margin-left: 30px;
+}
+
+#nomeVideoTxt{
+	width: 200px;
+	height: 30px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border: none;
+	font-size: 15px;
+	text-indent: 17px;
+}
+
+#filtriRadio{
+	margin-top: -10px;
+	font-weight: bold;
+	font-size: 14px;
+	color: grey;
+}
+
+#cercaBtn{
+	background-color: white;
+	border: none;
+}
+
+#cercaIcona{
+	color: red;
+	font-size: 18px;
+}
+
+#filtraBtn{
+  font-weight: bold;
+  background-color: white;
+  border: none;
+  color: rgba(0,0,0,0.7);
+  font-size: 15px;
+}
