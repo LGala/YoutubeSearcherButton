@@ -1,3 +1,5 @@
+Developed in winter 2018
+
 how to install this extension:
   1) go to [your chrome extensions panel](chrome://extensions/)
   2) enable "developer mode"
